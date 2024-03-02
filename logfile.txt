@@ -1,0 +1,2 @@
+2024/03/02 19:38:32 Error getting keystroke: operation canceled
+2024/03/02 19:38:32 Error closing keyboard: cannot close keyboard because program is busy
